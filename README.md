@@ -7,7 +7,8 @@
    - [Building a full scale health management system in 3 months]
    - [🔥Did one better, built a complete inventory and ordering system in a week]
 
-### ✍️ Random Dev Quote
+
+### ✍️ Quote Mischief
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
