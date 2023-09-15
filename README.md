@@ -1,17 +1,18 @@
-# 💫 About Me:
+💫 About Me:
 🚀 Software Engineer | 🌟 Open Source Advocate | 🌐 Tech Explorer
 
 💡 I'm on a mission to build innovative solutions and make the digital world a better place, one line of code at a time.
+
 🏆 Achievements:
    - [Leading Azubi Africa Cloud engineering students in technical projects]
-   - [Building a full scale health management system in 3 months]
+   - [Building a full-scale health management system in 3 months]
    - [🔥Did one better, built a complete inventory and ordering system in a week]
 
-
-### ✍️ Quote Mischief
+✍️ Quote Mischief
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muemalawrencelm) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lawrence_mmuia) 
