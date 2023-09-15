@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently an AWS enthusiast and trainer seeking to revive my deep love for tech.
+🚀 Software Engineer | 🌟 Open Source Advocate | 🌐 Tech Explorer
+
+💡 I'm on a mission to build innovative solutions and make the digital world a better place, one line of code at a time.
+🏆 Achievements:
+   - [Leading Azubi Africa Cloud engineering students in technical projects]
+   - [Building a full scale health management system in 3 months]
+   - [🔥Did one better, built a complete inventory and ordering system in a week]
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
