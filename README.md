@@ -6,6 +6,7 @@
    - [Leading Azubi Africa Cloud engineering students in technical projects]
    - [Building a full-scale health management system in 3 months]
    - [🔥Did one better, built a complete inventory and ordering system in a week]
+   - [🔥Oh bummer, I built a learning platform in 2 days (https://lms/labmero.com)]
 
 ---
 
