@@ -1,4 +1,4 @@
-🚀 Software Engineer | 🌟 Open Source Advocate | 🌐 Tech Explorer
+🚀 Software & AWS Cloud Engineer | 🌟 Open Source Advocate | 🌐 Tech Explorer
 
 💡 I'm on a mission to build innovative solutions and make the digital world a better place, one line of code at a time.
 
